@@ -14,6 +14,11 @@ This project recreates the retro arcade experience directly in your browser.
 ---
 
 ## 📂 Project Structure
+pong-_game-/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
 ---
 
